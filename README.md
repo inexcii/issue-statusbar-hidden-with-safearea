@@ -1,4 +1,3 @@
-# issue-statusbar-hidden-with-safearea
 # Project Purpose
   * To demonstrate that when the app tries to transit between UIViewControllers while toggling status bar's hidden/unhidden with safearea-constrained views, it causes an unexpectedly magnified effect in the related view-group.
   
