@@ -9,4 +9,6 @@
   * OS: 11.4.1/12.3.2/12.0.1
 
 # Issue
-  * If you build and run the app, you will notice that 2-3 times out of 5, there is a MAGNIFIED effect of the views under ViewController's Scene(especially the green-background one) when you try to navigate app from ViewController to SubViewController. It **only happens at a glance** so you may have to pay much attention so as to notice it.
+  * If you build and run the app, you will notice that 2-3 times out of 5, there is a MAGNIFIED effect of the views under ViewController's Scene(especially the green-background one) when you try to navigate app from ViewController to SubViewController. It **only happens at a glance** so you may have to pay much attention so as to notice it.  
+  
+  The corresponding question can be found on [Stackoverflow](https://stackoverflow.com/questions/57392223/safe-area-constrained-views-get-magnified-with-status-bar-toggled-hidden-unhidde).
